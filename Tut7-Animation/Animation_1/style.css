@@ -1,0 +1,16 @@
+#para {
+  padding: 1rem;
+  background-color: tomato;
+}
+
+#para1,
+#para2 {
+  padding: 1rem;
+  margin: 1rem 0;
+  background-color: black;
+  color: yellow;
+}
+
+#para2 {
+  display: none;
+}
