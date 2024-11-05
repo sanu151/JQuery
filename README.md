@@ -4,7 +4,7 @@
 
 In this tutorial, we'll explore the fundamentals of jQuery, a powerful JavaScript library that simplifies DOM manipulation and interaction. We'll cover the following topics:
 
-jQuery Cheat Sheet : [https://htmlcheatsheet.com/jquery/](https://htmlcheatsheet.com/jquery/)
+### jQuery Cheat Sheet : [https://htmlcheatsheet.com/jquery/](https://htmlcheatsheet.com/jquery/)
 
 * **Selectors:** Finding elements in the HTML document
 * **Text Manipulation:** Modifying the content of elements
